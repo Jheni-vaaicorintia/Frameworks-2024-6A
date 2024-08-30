@@ -1,3 +1,9 @@
 body{
     background-color:blue
 }
+.texto{
+    color: gold;
+    font-size: 25px;
+    
+    text-align: center;
+}
